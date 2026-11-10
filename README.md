@@ -1,6 +1,6 @@
 # Journal de bord
 
-Je suis Camille, en 2e année UX UI.
+Je suis Cauline, en 2e année UX UI.
 
 Ici, je note ce que j'apprends en vibe coding.
 
@@ -13,3 +13,7 @@ Ici, je note ce que j'apprends en vibe coding.
 - **Git** : garder l'historique de mon projet
 - **GitHub** : le partager en ligne
 - *Markdown* : écrire du texte mis en forme
+
+## Ma page
+
+[Voir ma page en ligne](https://VOTRE-PSEUDO.github.io/vibe-coding-starter/)
